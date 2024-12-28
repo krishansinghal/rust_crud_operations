@@ -96,7 +96,7 @@ Open the `Postman` application and perform the crud operation.
 ![Alt text](screenshots/delete_document.png)
 
 
-#### Publiished Postman collection
+#### Published Postman collection
 ```bash
 https://web.postman.co/workspace/e138b6c6-df57-4a5e-94f3-418a39bdaa27/request/31724378-ffa88b7c-207a-4aa6-904b-cfafa3d865b7
 ```
