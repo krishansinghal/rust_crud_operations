@@ -44,7 +44,7 @@ cargo run
 
 ### Postman
 
-Open the `Postman` application and perform the crud opertion.
+Open the `Postman` application and perform the crud operation.
 
 1) Create documents: using this operation `new document` can be created into the database. The details of operation is as follow:
 - HTTP method: `POST`.
